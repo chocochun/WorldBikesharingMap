@@ -1,0 +1,26 @@
+"","country","company","herf","id","pname","city","latitude","longitude","fullname","population","country_bycoor","continent_bycoor","continent"
+"2","AE","Nextbike GmbH","/v2/networks/bykystations-uae-dubai","bykystations-uae-dubai","BYKYstations","Dubai","25.2435","55.2722","United Arab Emirates",1182439,NA,NA,NA
+"37","BR","Mobilicidade Tecnologia LTD<br/>Grupo Serttel LTDA","/v2/networks/bikerio","bikerio","BikeRio","Rio de Janeiro","-22.904315","-43.184776","Brazil",6055582,NA,NA,NA
+"39","BR","Mobilicidade Tecnologia LTD<br/>Grupo Serttel LTDA","/v2/networks/bikesalvador","bikesalvador","BikeSalvador","Salvador","-12.973959","-38.508171","Brazil",2762758,NA,NA,NA
+"134","ES","Domoblue","/v2/networks/onroll-el-campello","onroll-el-campello","Onroll","El Campello","38.419616","-0.398388","Spain",24151,NA,NA,NA
+"140","ES","Domoblue","/v2/networks/onroll-benidorm","onroll-benidorm","Onroll","Benidorm","38.541251","-0.126808","Spain",70088,NA,NA,NA
+"172","ES","Labici Bicicletas Públicas SL","/v2/networks/bicidorm","bicidorm","Bicidorm","Benidorm","38.5410566","-0.1224937","Spain",70088,NA,NA,NA
+"180","ES","Domoblue","/v2/networks/onroll-almunecar","onroll-almunecar","Onroll","Almuñécar","36.735789","-3.688828","Spain",23232,NA,NA,NA
+"184","FR","Veolia","/v2/networks/velobleu","velobleu","Vélo Bleu","Nice","43.695949","7.271413","France",337891,NA,NA,NA
+"224","GR","Cyclopolis Systems","/v2/networks/cyclopolis-limnos","cyclopolis-limnos","Cyclopolis","Limnos","39.8747861","25.0586722","Greece",5485,NA,NA,NA
+"225","GR","Brainbox Technology<br/>Smoove SAS","/v2/networks/easybike-drapetsona","easybike-drapetsona","EasyBike","Drapetsona","37.9490926","23.6282598","Greece",77511,NA,NA,NA
+"230","GR","Brainbox Technology<br/>Smoove SAS","/v2/networks/easybike-glyfada","easybike-glyfada","EasyBike","Glyfada","37.8715809825","23.7355544376","Greece",18454,NA,NA,NA
+"234","GR","Cyclopolis Systems","/v2/networks/cyclopolis-rhodes","cyclopolis-rhodes","Cyclopolis","Rhodes","36.4509118","28.2246966","Greece",57148,NA,NA,NA
+"260","IT","Comunicare S.r.l.","/v2/networks/bicincitta-gaeta","bicincitta-gaeta","Bicincittà","Gaeta","41.209620965538","13.5843351256561","Italy",21732,NA,NA,NA
+"268","IT","Comunicare S.r.l.","/v2/networks/venezia","venezia","Venezia","Venezia","45.4408474","12.3155151","Italy",270277,NA,NA,NA
+"304","IT","Comunicare S.r.l.","/v2/networks/ustica","ustica","Ustica","Ustica","38.7031179","13.1682675","Italy",30373,NA,NA,NA
+"339","IT","Comunicare S.r.l.","/v2/networks/mobike","mobike","MoBike","Genova","44.4043008937273","8.92908986230462","Italy",599064,NA,NA,NA
+"344","IT","Comunicare S.r.l.","/v2/networks/civitavecchia","civitavecchia","Civitavecchia","Civitavecchia","42.0937524","11.7922462","Italy",51311,NA,NA,NA
+"384","SE","JCDecaux","/v2/networks/stockholm-cyclocity","stockholm-cyclocity","Cyclocity","Stockholm","59.32893","18.06491","Sweden",1260712,NA,NA,NA
+"390","TR","Baksi Bike Sharing System","/v2/networks/baksi-bisim","baksi-bisim","Baksi","Izmir","38.4134047464","27.0325753524","Turkey",2557851,NA,NA,NA
+"393","TR","Baksi Bike Sharing System","/v2/networks/baksi-istanbul","baksi-istanbul","Isbike","Istanbul","40.9696887925","29.0475373717","Turkey",10034830,NA,NA,NA
+"402","US","Social Bicycles Inc.","/v2/networks/sobi-long-beach","sobi-long-beach","SoBi","Long Beach, NY","40.5833058203002","-73.6482682794673","United States",43377,NA,NA,NA
+"406","US","DecoBike LLC","/v2/networks/decobike-miami-beach","decobike-miami-beach","Citi Bike Miami","Miami Beach, FL","25.790654","-80.1300455","United States",89531,NA,NA,NA
+"448","US","NYC Bike Share, LLC<br/>Motivate International, Inc.<br/>PBSC Urban Solutions","/v2/networks/citi-bike-nyc","citi-bike-nyc","Citi Bike","New York, NY","40.7143528","-74.0059731","United States",39972,NA,NA,NA
+"449","US","Nextbike GmbH","/v2/networks/hudsonbikeshare-hoboken","hudsonbikeshare-hoboken","Hudsonbikeshare","Hoboken","40.7447","-74.0341","United States",39972,NA,NA,NA
+"456","US","PBSC<br/>Alta Bicycle Share, Inc","/v2/networks/bay-area-bike-share","bay-area-bike-share","Bay Area Bike Share","San Francisco Bay Area, CA","37.7141454","-122.25","United States",70069,NA,NA,NA
